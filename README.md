@@ -1,1 +1,1 @@
-#Learning about functional programming.
+Learning about functional programming.
